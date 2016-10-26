@@ -1,0 +1,15 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "Node js testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Wofai",
+  "license": "ISC",
+  "repository": {"url": "https://github.com/wofaibiang/nodeproject",
+   "type": "git"},
+   "readme": "README.md"
+
+}
